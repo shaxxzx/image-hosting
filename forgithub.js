@@ -1,6 +1,5 @@
 const GITHUB_USERNAME = 'shaxxzx'; // Replace with your GitHub username
 const REPO_NAME = 'image-hosting'; // Replace with your repository name
-const TOKEN = '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'; // Replace with your GitHub token
 
 // Function to upload image to GitHub
 async function uploadImageToGitHub(file, directory, customName) {
